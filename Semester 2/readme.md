@@ -1,7 +1,7 @@
 Afternoon(AN) Slot papers for 2nd Semester MCA VITV - CAT 1, CAT 2 and FAT
 Subjects included:-
-1. Cybersecurity(Optional)
-2. System Design(Optional)
+1. Cybersecurity(Optional subject)
+2. System Design
 3. Software Engineering
 4. Full Stack Web development
 5. Machine Learning
